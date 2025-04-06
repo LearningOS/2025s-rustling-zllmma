@@ -3,7 +3,7 @@
     This problem requires you to implement a sorting algorithm
     you can use bubble sorting, insertion sorting, heap sorting, etc.
 */
-// I AM NOT DONE
+
 
 fn sort<T: std::cmp::PartialOrd>(array: &mut [T]) {
     let len = array.len();
